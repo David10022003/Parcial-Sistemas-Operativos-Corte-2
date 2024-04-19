@@ -55,12 +55,16 @@ Para implementar un algoritmo de planificación con prioridades dinámicas, se n
 
 
 ## SOLUCIÓN
-![Texto alternativo](GRAFICO.PNG)
+![Texto alternativo](/images/GRAFICO.PNG)
 ### Programa en C
 
 Este programa se ejecutó 15 veces con el fin de tomar su tiempo de ejecución y hacer un análisis más específico, los siguientes son los tiempos de ejecución:
 
+![Texto alternativo](/images/EJECUCION_C.jpg)
+
 ### Programa en Python
+
+![Texto alternativo](/images/EJECUCION_PHYTON.jpg)
 
 Este programa se ejecutó 15 veces con el fin de tomar su tiempo de ejecución y hacer un análisis más específico, los siguientes son los tiempos de ejecución:
 
