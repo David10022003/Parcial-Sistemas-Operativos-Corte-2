@@ -55,7 +55,7 @@ Para implementar un algoritmo de planificación con prioridades dinámicas, se n
 
 
 ## SOLUCIÓN
-![Texto alternativo](/images/GRAFICO.PNG)
+
 ### Programa en C
 
 Este programa se ejecutó 15 veces con el fin de tomar su tiempo de ejecución y hacer un análisis más específico, los siguientes son los tiempos de ejecución:
@@ -64,10 +64,12 @@ Este programa se ejecutó 15 veces con el fin de tomar su tiempo de ejecución y
 
 ### Programa en Python
 
-![Texto alternativo](/images/EJECUCION_PHYTON.jpg)
-
 Este programa se ejecutó 15 veces con el fin de tomar su tiempo de ejecución y hacer un análisis más específico, los siguientes son los tiempos de ejecución:
 
+![Texto alternativo](/images/EJECUCION_PHYTON.jpg)
+
 ### Análisis entre tiempos de ejecución en la gestión de procesos, según el lenguaje de programación (C y Python)
+
+![Texto alternativo](/images/GRAFICO.PNG)
 
 Teniendo en cuenta la gráfica anterior se evidencia que los tiempos de ejecución presentados en Python son más altos que los presentados en C, esto puede deberse a que Python es un lenguaje de programación interpretado, a diferencia de C que es un lenguaje de programación compilado, lo que afecta directamente a su tiempo de ejecución.
