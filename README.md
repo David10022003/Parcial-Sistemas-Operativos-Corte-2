@@ -21,7 +21,7 @@ Ejemplo, se podría usar el algoritmo de planificación de retroalimentación mu
 Para implementar un algoritmo de planificación con prioridades dinámicas, se necesita una forma de calcular y ajustar las prioridades de los procesos en función de su comportamiento. Por ejemplo, se podría aumentar la prioridad de un proceso si ha esperado mucho tiempo en la cola de listos, o reducir su prioridad si ha utilizado una gran cantidad de tiempo de CPU recientemente. (Se adjunta modelo).
 
 ## SOLUCIÓN
-
+![Texto alternativo](GRAFICO.PNG)
 #### Programa en C
 
 Este programa se ejecutó 15 veces con el fin de tomar su tiempo de ejecución y hacer un análisis más específico, los siguientes son los tiempos de ejecución:
